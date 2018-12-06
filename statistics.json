@@ -1,0 +1,15 @@
+{
+  "The current number of grasses": 360,
+  "The current number of herbivores": 2,
+  "The current number of predators": 4,
+  "The current number of super animals": 40,
+  "The number of grasses eaten by herbivores": 1418,
+  "The number of herbivores eaten by predators": 180,
+  "The number of grasses eaten by super animals": 11203,
+  "The number of herbivores eaten by super animals": 273,
+  "The number of predators eaten by super animals": 84,
+  "Years passed": 8,
+  "The percentage of herbivores dead as a result of hunger": 8,
+  "The percentage of predators dead as a result of hunger": 1,
+  "The number of dead super animals": 77
+}
